@@ -1,4 +1,4 @@
-# Borsa-Tahmin-Uygulamas-
+
 # 📈 Borsa Tahmin Uygulaması
 
 Bu proje, zaman serisi analiz yöntemleri olan **ARIMA** ve **SARIMA** modelleri kullanılarak, hisse senedi kapanış fiyatlarının tahmini amacıyla geliştirilmiştir.
